@@ -1,0 +1,98 @@
+Terawatt and futures
+
+Ñòðàíèöà 3
+
+1A. Module 1
+This terawatt module introduces two new patent decks: Freighters (1B) and GW/TW Thrusters (1C). Freighters are a new type of patent card allowing the transport of valuable factory goods back to LEO. GW/TW thrusters are more powerful and efficient versions of the MW thrusters of the core game, allowing your Spacecraft to reach the outer planets more easily. This module also optionally introduces Futures, special game goals to earn victory points.
+a. The Cover Painting by Nick Stevens depicts the 2-stage starship Daedalus, designed by the British Interplanetary Society. It has a Wet Mass of 1350 and a Dry Mass of 100. First stage power is 40 TW
+1A1. Module 1 Components
+1 Drawer Box
+1 Rules Booklet
+5 Playmat Extensions
+5 Big Wooden Cubes (12mm, in 5 player colors) for Freighters
+30 Gold Plastic Beads for Isotope FT
+10 Wooden Stars for Futures
+8 Wooden Sticks for Space Elevators
+7 GW/TW Thruster Cards
+7 Freighter Fleets Cards
+4 Ziplock Bags
+1A2. Module 1 Setup
+Setup is per core setup (C), except during patent decks setup (C4) include Freighter cards and GW/TW thruster cards as two extra patent decks with Black-Side faceup, and give each player their big wooden cube for their Freighter Figure.
+a. Freighter Cards & GW/TW Thruster Cards are black on one side, and purple on the other. They form their own patent decks – the freighter deck and the GW/TW thruster deck – and are researched like all patent cards, but can only enter the map via ET production.
+
+Ñòðàíèöà 4
+
+b. Choose Game Length & Futures. During Seniority Disk placement (C1), place Seniority Disks according to desired game length: short (4 disks for a 48-year game, same as core), medium (5 disks for a 60-year game), or Futures (7 disks for a 84-year game, mandatory if you play with Futures 1D)
+ñ. Choose Quick Start. When playing with the 60-year game or longer, or if playing with more than 3 players, the Quick Start Variant (V1) is recommended.
+d. Extra Wet Mass Chits. Each player adds 1 gray/gold Wet Mass Chit to their Reserve (from the Core game).
+1A3. Module 1 Sequence Of Play
+This is unchanged from core (D). However, core allowed only one Spacecraft Stack – the Rocket. In Module 1, you can have up to two: your Rocket (which can be driven by MW thrusters or the new GW/TW thrusters), and a Freighter. Additionally, if you Promote your Freighter (1A5), all of your cubes become Spacecraft called Mobile Factories. You may move each of these Spacecraft once during your turn, in any order, along with your Operation (and any free actions).1
+1A4. Freighter & GW/TW Thruster Card Limits
+You may only own one Freighter and one GW/TW thruster card. You may not initiate or participate in a research auction (I2) for a second Freighter or a second GW/TW thruster, if one exists already either in your Hand or in one of your Stacks.2
+It’s your Turn. You can in any order perform your Operation, move your big cube freighter, perform free actions, move your Rocket and move a Mobile Factory (or Factories).
+1TERAWATT is a trillion watts. How much is that? Currently all the electrical power generators in the world combined produce 15 TW, about the power of a single TW thruster. Rockets are energy hogs.
+2TNO TRAVEL. Unlike interplanetary flight in the inner Solar System, dominated by Heliocentric gravity, the influence of Sol is minor for travel between TNOs (Trans-Neptune Objects). These objects orbit so leisurely that the delta-v between them is less than 1 Burn, and for game purposes they are locked in place. The TNOs in the game are mainly in the Kuiper Belt at about 40 to 45 AU from Sol, and the game assumes that these are all in a small sector of this belt 20 AU from each other, in the “shadow” of Neptune. Suppose your journey begins in the Pluto/Charon barycenter, and your destination is another TNO, say Huya. First you fly through 4 Burns, and the fuel expended represents accelerating to a cruising speed of 10 km/sec. Then you coast for 9 years, stopping at each Hohmann Pivot. Each of these pivots is 2 AU traveled. The next 4 Burns represent the deceleration to stop at Huya, ending in LHO (Low Huya Orbit). Suppose you are in a hurry, and stop at only 5 of the Hohmann Pivots, for a 5 year voyage. The other 4 Pivots you spend fuel to cross, 2 Burns per Pivot, for a total of 16 Burns, twice as much as the 9 year journey. This realistically simulates a 20 km/sec cruise between Pluto and Huya. Travel beyond the Kuiper Belt and the heliopause is assumed to be 100 km/sec. The final 10 Burns represents either the deceleration to stop at Sedna or the EM Sunlens, or an acceleration to make a Sol Oort Exit of the solar system on an interstellar voyage.
+
+Ñòðàíèöà 5
+
+A4] You have a GW thruster (salt water zubrin), but wish to acquire a new GW thruster able to refuel at your Bernal at an H Site. So you Decommission the salt water zubrin and Discard it from your Hand (G6). Now you can bid on a new GW thruster.
+1A5. Promotion (new Operation, also in Module 2)
+This Operation, which flips a stack card to its improved Purple-Side, is common to Modules 1 and 2. Every card with a Purple-Side has a dome icon to the left of the Thrust triangle which indicates the type of Colony at which it may promote. To use the promote operation, an unpromoted card (Bernal, Colonist, Freighter, or GW thruster) must either be at a promotion colony specified by its dome icon, or at a Lab:
+This Operation, which flips a stack card to its improved Purple-Side, is common to Modules 1 and 2. Every card with a Purple-Side has a dome icon to the left of the Thrust triangle which indicates the type of Colony at which it may promote. To use the promote operation, an unpromoted card (Bernal, Colonist, Freighter, or GW thruster) must either be at a promotion colony specified by its dome icon, or at a Lab:
+• Spectral Colony if at the specified Spectral Type (D, H, S, etc.).
+• Submarine Colony (waves icon, see glossary).
+• Astrobiology Colony (leaf icon, see glossary).
+• Atmospheric Colony if at a Site with the cloud icon (see glossary)
+• Push Colony marked with the push icon (in the Heliocentric Zones of Earth, Venus, or Mercury, plus Io).
+You build a push colony on Mercury north pole. This is a promotion colony for your Freighter (HIIPER beam rider), so you use it to fly your Crew to Mercury, use your Crew’s thrusters to bring the Freighter to the surface, and perform the promote operation to flip the freighter card to its Purple-Side (magnetic mirror beam rider).
+b. Lab Promotion Site (Module 2). A Promoted and Anchored Bernal is always a valid promotion colony for Colonist, Freighter, and GW thruster cards (2A3c).
+c. Negotiation. To promote, the Colony must either be your color or be an opponent’s color as a negotiated on-site operation (N6).
+d. Decommissioning Promoted Cards. Except for Robot sales (2C2a) and Robot transfers (Nb), Purple-Side cards cannot be sold on the free market (I3b) or included in a stack transfer (N3). They can be involuntarily Decommissioned, but see (1B7) and (2C2). They can be voluntarily Decommissioned (Felony for Human Colonists) and then sold or transferred from your Hand (except Human Colonists). They return to play on their White-Side or Black-Side by being boosted (Bernals), exomigrated (Human Colonists), or ET Produced (Robots, Freighters, and GW Thrusters).
+EASILY MISSED: The PurpleSide contains Futures, which are ignored unless you are using 1D (1A5d).
+
+Ñòðàíèöà 6
+
+1A6. Epic Hazard (new Operation)
+In order to build a Space Elevator (1B9) or accomplish any Future to gain a future star token (1D2a), a special unit needs to perform an epic hazard operation. In the case of a Space Elevator, the unit is a Factory, Freighter or Mobile Factory cube. In the case of a Future, the unit is a Crew or Colonist card.
+a. Epic Hazard Roll. This operation requires a Hazard Roll. You can avoid this roll by paying FINAO. If you fail the roll by rolling a “1”, the Space Elevator is not built or the orange star is not attained and the unit used to perform the Epic Hazard suffers involuntary Decommission.
+b. Successful Effects. See 1B9 (Space Elevator) or 1D2 (Futures).
+EASILY MISSED: If attempting a Future, a failed Epic Hazard Roll kills the Human who attempted it, but does not destroy the Purple-Side Futures card which is also in attendance. [1A6a]
+1A7. Nanofacture (new Operation, needs Module 2)
+Your Anchored Bernal can produce its own Mobile Factory. If you have a promoted Freighter, you may create this Mobile Factory (small cube) by performing a nanofacture operation at an Anchored Bernal (but not a Home Bernal). This Decommissions an operational robonaut, refinery, and their supports (including radiators), and places
+You have promoted your poodle freighter into a D-nanotube freighter, and moved a refinery and a robonaut, plus their supports (generator, reactor, and radiator), to your Bernal anchored in LMO (low mars orbit). You decommission all these cards, creating a small cube in LMO.
+a Mobile Factory cube at the Bernal.
+1A8. Core Rule Addenda
+The delivery operation (I9), which abstracts freighter operations, cannot be used with this Module.
+1A9. Freighter & GW Thruster Card Data
+For technical details on Freighters and Gigawatt/Terawatt thrusters, see section 1Z in this rulebook.
+
+Ñòðàíèöà 7
+
+1B. Freighters
+A Freighter is a Spacecraft represented on the map by a Freighter Figure (big cube). Freighter cards form their own patent deck, and can be researched into your Hand by a research auction (I2). From there you can create it on its Black-Side by an ET production (I8), according to its Spectral Type.3 This can be added to any stack or used to form a Freighter Stack:
+a. Create A Freighter Stack by cargo transfer (G1), ET production (I8), or stack swapping (G1e). Show its location on the map with your big (12mm) cube. Place the Freighter card into the slot for the Freighter Stack.
+b. Freighter Stacks do not track fuel and move 1 burn per Turn (plus flybys, pushes, and coasting). They have a minimum mass of 1 (F2a, relevant for e.g. rocketplane liftoffs (H6c)).
+c. Load Limit is the mass limit of the cards(s), FTs, and Mobile Factories the Freighter Stack can carry.
+d. Promotion. If you promote (1A5) your Freighter card, all of your Factory cubes become Mobile Factories, and the Freighter’s Future becomes unlocked (1D).
+e. Mobile Factories. Once you Promote your Freighter card, all your cubes move with the same capacities as your Promoted Freighter card. Each becomes a Factory as soon as it lands on one of your Claims. On your Turn, you may move all of your cubes not under a colony dome, in any order.
+EASILY MISSED: Load limit does not include the Mass of the Freighter itself. [1Bc]
+EASILY MISSED: A Mobile Factory not on a Claim is not a Factory, and counts token VP (M2a) but no stock VP. [1Be]
+1B1. Freighter Acquisition & Production
+A Freighter can be acquired into your Hand by winning it in a research auction (I2). See 1A4 for card limits.
+a. Production. Later, you can ET produce it at a Factory of the appropriate Spectral Type. If the Freighter has Spectral Type “ANY”, then it is a low tech Freighter that can be produced at any Factory, but per (I3b) cannot be sold on the free market.
+3 STEAM FREIGHTERS. When you have plenty of water, say at an ET factory, how do you use it best? Electrolysis to make a H2-O2 chemical rocket? The cheapest solution is to use a low performance steam rocket (specific impulse of 0.19 ks). This would use solar- or nuclear-heating to convert water to 1100 K steam. The payload ratio of a low tech freighter could easily be 100:1, so that it is loaded with 100 mass points of water (beyond the game’s normal wet mass limit) to deliver 1 mass point of cargo. Such a vessel is slow not because it is low thrust, but because it must drag along so much propellant for the delta-v to get home. —Anthony Zuppero, Origin Of How Steam Rockets Can Reduce Space Transport Cost By Orders Of Magnitude, 1998.
+
+Ñòðàíèöà 8
+
+1B2. Big Cube Freighter Figure
+One cube of your color is larger (12mm) than the rest. Use this cube to indicate the location of your Freighter Stack (1Ba), which must contain your Freighter card. This card specifies the cube’s mass, rad-hardness, and Load Limit. Remove the cube if you don't want a Freighter Stack (because your Freighter card is Cargo or being used as a support, etc.). You can later use cargo transfer (G1) to create a Freighter Stack.
+1B3. Freighter Stack Cargo
+Freighter Stacks can transfer Cargo as a free action (G1). Note that Wet Mass Fuel, Dry Mass, and Wet Mass are not tracked in a Freighter. The following rules must be respected in regards to Cargo:
+a. Load Limit. This number on the Freighter card indicates how much mass the Freighter Stack can carry, not counting the mass of the Freighter card itself.
+b. Factory Loading Only. A Freighter with text may only add cards to its stack at a Factory or Anchored Bernal that is not in its Home Orbit (due to the scarcity of water around Earth). Removing cards via cargo transfer (G1) is allowed anywhere, as normal
+Your inflatable solar-heated freighter delivers a Black-Side card to LEO, which you sell on the free market. The freighter itself can’t be sold, because it is Spectral Type “ANY”. Nor can it load up with new Cargo (it can be only loaded at a Factory, since LEO doesn't have the thousands of tonnes of water it would need to cross a single Burn). You decide to Decommission it.
+1B4. Freighter Stack Movement
+Fuel is not burned or tracked on a Freighter Stack. Freighter movement doesn’t use a Fuel Strip, and Section H is not used. Instead, the Stack can move 1 Burn Space, and then coasts. If pushed by a Powersat, it can move 2, which allows it to make one Pivot or 2 Burn Spaces. It is allowed Bonus Burns, e.g. from flybys (H8). A Freighter card cannot be used or activated to move anything other than a Freighter Stack, and the following are only applicable to a Freighter Stack:
+a. Bonus Pivots. Some Freighters (i.e. z-pinch, fusion fragment and HIIPER beam-rider) receive a number of Bonus Pivots, as specified in the number of .
+EASILY MISSED: Factory load only Freighters are not very useful on non-atmospheric Sites of Size 6 or more. They can only liftoff by being carried as Cargo. [1B3b]
+EASILY MISSED: Bonus Pivots cannot be converted into Burns or Fuel. [1B4a]
