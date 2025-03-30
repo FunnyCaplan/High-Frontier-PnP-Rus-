@@ -205,3 +205,467 @@ EASILY MISSED: Biological warheads and amat bombs are not vendettas. [3D1]
 19TYRANNY OF THE ROCKET EQUATION. In space, the economy of both war and peace is dominated by transportation costs in which it is normal to pour 99% of the vehicular energy into the propellant, where it flies uselessly into space at high speed, and only 1% to actually move the space vehicle. Why do they voluntarily make such a lopsided partition of energy? Because in space, where every gram matters, the fuel economy is improved by ejecting it at high energy. All vehicles need both energy and mass to maneuver. On Earth, everyone worries about energy (e.g. how much fuel remains), but the mass is taken for granted. In this game, the fuel is taken for granted, but the mass (propellant) is carefully tracked. The tyranny of the rocket equation means that rockets are extremely fragile in warfare: with feeble thrusting, high energies which cannot be cloaked, big cryotanks that can’t be armored, and components so frail as to not be able to support their own weight if they sat on Earth.
 
 Ñòðàíèöà 15
+
+a. Sneak Attack. This is a treacherous attack on an ally when you flip your propaganda to the other bloc during a defection (3B3c).
+b. Sabotage. On an enemy's turn, immediately after he makes a successful Belt, Hazard, or Epic Hazard Roll, force him to make a reroll. FINAO can't be sabotaged.
+c. Human Kamikaze. Only Player Purple may fire this weapon, which allows him to use sacrificial Humans in combat. Paying a victim a bribe allows you unlimited use of both Human kamikazes (3E5d) and Human dropstones (3D7c) against him that Turn.
+d. Beamed Gray Goo. Only Player Gray or a player having an Anchored Pharmaceutics Bernal/Lab (2B4g) may fire this faction weapon (3D6e), which adds 1d6 to rayguns. Your 1 bribe payment for the vendetta allows you unlimited use of gray goo against him that Turn.20
+e. Dropstone. Any player may attack with this weapon (3D7). Only Player Purple is exempt from paying the bribe.
+3D2. Delegate Corruption & Suborning (War/Anarchy Only)
+A delegate becomes a corrupt delegate by placing a bribe disk under its cube. Once corrupted (by any player), a delegate can be petitioned by any player to evade war restrictions (3D3d).21 Furthermore, it cannot be used to lobby (O4) and does not count as VP at the endgame (3G1). A corrupt delegate is otherwise treated as an ordinary delegate, with the following effects during War/Anarchy only:
+a. Dismissal. Unless evaded (3D3), any of your uncorrupted delegates in an enemy bloc are Decommissioned at the end of your Turn.
+b. Suborn. As a once-per-turn free action, you may corrupt an uncorrupted delegate of any color. This costs a bribe (place under the delegate). If the delegate is not your color, this also costs 4 Aqua, paid to the Pool. Extremists and incorruptible delegates (3D6c) cannot be suborned
+c. Propaganda Oust. If you flip a propaganda of an Ideology for any reason, you can Decommission (oust) one corrupt delegate in that Ideology, claiming his bribe as your own.
+20 GRAY GOO describes self-replicating nanomachines, which are programmed to seek and consume materials useful for their self-replication. These machines are minute enough to be propelled by beamed energy. If a target is rich in such materials, the machines could convert it into more gray goo. —K. Eric Drexler, Engines of Creation, 1986.
+21 SLIPPERY-SLOPE EFFECT. “Because individuals more readily justify small indiscretions as opposed to major ethical, moral disengagement is likely to occur when unethical behavior develops gradually over time rather than abruptly,” —Welsh, Ord??ez, Snyder, & Christian, The slippery slope: How small ethical transgressions pave the way for larger future transgressions, 2015.
+
+Ñòðàíèöà 16
+
+d. Blackmail. If you Decommission a corrupt delegate for any reason, you claim his bribe as your own
+• Instances: Ousting (previous bullet), martial law (O5d), or recovering a cube if at your cube limit (I7f).
+e. Lobbying. During War/Anarchy, all Laws are shutdown and can’t be lobbied (O4) by any delegate (corrupt or not)
+f. Evasion. A corrupt delegate can be petitioned by any player to evade restrictions (3D3d).
+War breaks out and you are Independent. Now you want to boost your Bernal. You will need to evade the War restrictions on boosting, so you spend 4 Aqua to suborn a foreign delegate in the unity Ideology.
+g. Lingering Corruption. A corrupt delegate remains corrupted after War/Anarchy ends.
+3D3. Petition to Evade Restrictions (War/Anarchy Only)
+Certain Operations (3D4) and certain Abilities/free actions (3D5) are restricted during War/Anarchy. Each restricted Operation and Ability/free action is associated with a certain Ideology as listed in the Module 3 political assembly. You are not allowed to perform any restricted Operation, Ability, or free action unless you petition (free action) the indicated Ideology using one of these 4 types of delegates
+a. An extremist delegate of your color (or of an opponent’s color, assuming a successful negotiation (N)).
+b. A delegate of your color.
+Player Yellow fundraises, moving a delegate into honor. Then he makes a negotiation with Player Green for use of her Powersat for movement. The restrictions against negotiating with the enemy are evaded by the yellow delegate in honor
+EASILY MISSED: The only enemy delegate you can negotiate with is an enemy extremist. [3D3a]
+c. A delegate of an ally's color, with her permission/negotiation. This includes allied extremists
+d. A corrupt delegate of any color.
+] Player Green (equality) has a bunch of cards that she wishes to boost, but unfortunately there is Anarchy and boosting is restricted. To evade this, she must petition unity, the Ideology that has the “No Boost/Homestead Ops” restriction. Fortunately she has a delegate in centrist, so she performs a fundraise op, which gains her an Aqua and a new delegate, and importantly allows her to move her centrist delegate to unity. Since unity is currently an enemy bloc, she is forced to pay a bribe to corrupt her delegate there. She is finally free to boost her stuff, but unfortunately other players can use her corrupt delegate to boost their stuff as well.
+
+Ñòðàíèöà 17
+
+3D4. War/Anarchy Restricted Operations
+The following Operations are restricted, as indicated on the political assembly by the WAR stop sign . This means you cannot perform them unless you petition a delegate to evade the restrictions (3D3):
+a. Limited Free Market Operations (Freedom, extremist = Player Red). Black-Side Card sales (I3b) are not allowed, and White-Side sales (I3a) are restricted to pay 1 Aqua per card.
+b. No Boost/Homestead Operations (Unity, extremist = Player Yellow). Boost (I4) and homesteading (2A4) operations are not allowed. You may evade this if you own or negotiate with a L3 Lofstrom Loop (2B4f) or GEO Space Elevator (2B4i) Home Bernal.
+] It is War, and Player Red wants to boost a card. She has no delegates, but fortunately Player Green has a corrupted delegate in unity that she can use to evade the unity restrictions on boosting.
+EASILY MISSED: You need to petition a delegate to perform a restricted operation. The uncorrupted delegate of an ally is not enough, unless they agree to a negotiation. [3D4]
+c. No Home Bernal Anchoring (Authority, extremist = Player Purple). This restriction applies only if you are an Independent (even if authority becomes Independent). You are not allowed to anchor (2A5) a Home Bernal, and if you already have a Home Bernal, it becomes unanchored at the end of your next Turn.
+• Elevators. Building an elevator to your ET Home Bernal in the M Earth or E Mars Zones is restricted (3F1g).
+You have a Home Bernal when War breaks out. You have no delegates in authority and should spend your first War Turn electing a delegate to authority, to avoid the unanchor of your Bernal. Because you are in the Independence bloc, your Bernal is threatened as a war appropriation. If Player Purple has an extremist, you can ask her for permission to keep your Bernal anchored.
+d. No Auction Operations (Equality, extremist = Player Green). Initiating a research auction (I2) is not allowed, but participating is not restricted.22
+It is War, and Player Gray wants to auction a card. He has a delegate in equality he can use to evade the equality restrictions on auctions. All players can participate in the auction, because only initiation is restricted, not participation.
+22 WAR GRANTS. As in any emergency, politicians use war as an opportunity to increase their own tax-based power to manipulate the careers of scientists and engineers and the capital of businessmen into particular military endeavors, against the workers’ own individual judgments. Although this can lead to benefits, results achieved by the seizure of freedoms must be balanced against the war-winning results that would have been achieved had the producers been allowed to follow their own visions.
+
+Ñòðàíèöà 18
+
+e. Limited Promotion Operations (Individuality, extremist = Player Gray). Promotions (1A5, 2A3) are not allowed in the C (Venus), M (Earth), or E (Mars) Zones.23
+3D5. War/Anarchy Restricted Abilities & Free Actions
+The following Abilities and free actions are restricted, which means you cannot perform them unless you petition a delegate to evade the restrictions (3D3):
+a. No Exomigration (Freedom, extremist = Player Red). You may not exomigrate new Colonists (2A6). If evaded, then you may exomigrate (free action) up to your wartime colonist limit (3A3g). 24
+b. LEO No-Fly Zone (Authority, extremist = Player Purple). You may not move from space into LEO. Does not affect boosting.
+c. No Enemy Negotiation (Honor, extremist = Player White). You are restricted from granting the enemy any negotiation (See Section N in Core). As long as Player White retains his extremist, he is allowed to negotiate or enable negotiation at any time.
+It’s War, and you are Independence Player Red. You want to boost and humbly ask Player Yellow for permission. Player White interrupts, pointing out that for two enemies to negotiate, they need her permission first. You end up paying her a Hand Card, and Player Yellow a bribe chit, before boosting.
+d. No Enemy Colonists (Honor, extremist = Player White). If at the end of your Turn a Colonist of yours supports the enemy bloc (3F4a), you must Discard this enemy Colonist to the bottom of the queue.
+e. No FINAO (Individuality, extremist = Player Gray). You may not perform “failure is not an option”.
+EASILY MISSED: An Independence Home Bernal must petition every turn to stay anchored. [3D4c] A petition each Turn is also required to hold enemy Colonists. [3D5d]
+23 SPACE INVESTMENTS. One of the worst economic effects of war is that it scares away investors. Regardless of which bloc the investor supports, risking his/her life savings on labs or other infrastructure in a time of combat and sabotage is foolish, unless it can have an immediate war-winning impact.
+"24 PLANETARY CHAUVINISM. More than 40 years ago the late Gerald K. O'Neil, author of The High Frontier, argued against attempting to settle places like Mars, in favor of Bernals tailored for human comfort. This view is adopted in the game, with families living in Bernals, and the breadwinners involved in dirtside teleoperations. ""These are beautiful. People are going to want to live here."" —Jeff Bezos of Blue Moon, 2019."
+
+Ñòðàíèöà 19
+
+3D6. Faction Weapons (new War/Anarchy Faction Ability)
+As listed on your playmat (top), you have an additional War/Anarchy Ability called a faction weapon. Faction weapons can only be used during War/Anarchy! If using Module 2, faction weapons, like faction privileges (B6a), are shutdown if you have no Home Bernal or ET Home Bernal (3F1). The faction weapons are:25
+a. Player Red (capitalist freedom). Your Crew or Anchored Bernals may use jammers, which allows you to attack first if you are the attacker (3D8e). 26 Jammers are never used if you are the defender
+b. Player Yellow (national unity). Your kamikaze attacks (3E5) use biological warheads (see Table 3E2).
+c. Player White (elitist honor). Your Crew/Colonists are marines who do not need buggies to make a buggy attack (3E4)
+• Incorruptible Delegates. Player White has this Ability, which allows his delegates to never become corrupt (If playing Module 2, he must have a Home Bernal). Thus they cannot be suborned (3D2b, 3C3d).
+d. Player Green (worker equality). Your Humans and robonauts do not need a Powersat to use fighting mirrors (3E3c).
+e. Player Gray (anarchical individuality). You may use beamed gray goo (3E3a), which allows your rayguns to roll one extra dice for their FV. Unless your target is a dropstone, you must pay your victim 1 bribe for a vendetta (3D1d) to use beamed gray goo against him for a Turn.
+EASILY MISSED (Module 2): You can use faction weapons only during War/Anarchy (even if allowed Felonies), and can use faction privileges only during peace. Like your faction privilege (B6a), your faction weapon is available only if you have an Anchored Bernal. [3D6]
+NOTE (Module 2): If a bribed white delegate becomes incorruptible (due to the anchoring of a White Bernal), than Player White collects the bribe. [3D6c]
+As Player Gray, you boost 2 rayguns and their mutual generator support into your Bernal in the GEO Home Orbit. It’s War, and an enemy Home Bernal with a rad-hardness = 6 is in the Adjacent L2 Home Orbit. You pay one bribe to your enemy, and attack with both rayguns as beamed gray goo, rolling 3d6 with each. After subtracting the ISRU on each shot, the resulting FV is 6 and 13. Both shots achieve a zap, but the first is ineffective while the second Decommissions the Bernal with genocide.
+f. Player Purple (socialist authority). Costs 1 Aqua to attack using an amat bomb with your Crew or Anchored Bernal. Amat bombs are not used if you are the defender.
+25 BASAL SOCIETAL UNIT (BSU) of the factions establishes a supreme collective, as follows: Yellow = The patriotic are united under a supreme nation or religion, White = the masses pursue a code of honor under a supreme elite, Purple = all societal members are regulated under a supreme authority, Green = the workers collectively own capital under a supreme egalitarian union, Gray = individuals are supreme in an anarchy, Red = freedom is supreme, as values and capital are exchanged on the free market, and only the use of force is regulated.
+26 JAMMING is the use of high-power electromagnetic waves on identified frequencies to disturb communication, radar detection and weapon targeting. Factories are vulnerable to ECM jamming, particularly the teleoperation of robonauts and the delicate process of electromagnetic slinging of products and water to orbiting spacecraft.
+
+
+
+
+• War Crimes. Player Purple has this Ability, which allows him to perform a sneak attack without paying a bribe (3B3c), to use human kamikazes (3E5d) and manned dropstones (3D7c), and suffer no consequences from genocide (3E2m).
+3D7. Dislodge (new War/Anarchy Operation)
+A dropstone is a rocket-powered boulder or iceberg sent flying into a target with the help of gravity-assist from a flyby. The dropstone comes off of a comet or moon, which is unaffected by the dislodge. The dropstone forms a new Stack type (maximum of 1 allowed) and is in addition to the number of Stacks permitted (E3). For the necessary midcourse corrections, this Stack must include an Operational thruster (but not fuel, since the dropstone itself is used for propellant). The entire dropstone Stack is Decommissioned in its attack, see 3E6. 27
+a. Vendetta. When it comes to the attack roll (3E6), you will need a bribe to pay the defender (3D1e)
+b. To Dislodge a Dropstone takes an Operation using an Operational thruster on one of the following Spaces:
+• Synodic Comets. A dropstone from one of these comets is deorbited into Sol, and on the next Turn can move outward at a rate of one Heliocentric Zone per Turn, starting in the C Venus Zone. It can attack when it reaches the targeted Heliocentric Zone per 3D7f
+• Jovian Himalia Moonlets. A dropstone from one of these 4 moons is deorbited into Jupiter, and the Turn afterwards can attack any Site or Anchored Bernal in the F Jupiter Zone per 3D7e. 28
+"TIP: For dropstone strategy,
+locations, and a diagram of
+a typical dropstone heliocentric orbit, see 3H3. [3D7]"
+EASILY MISSED: You can even dislodge from the special synodic comet kreutz sungrazer (B7k) (the thrusters will set the stone’s course just before they melt). [3D7b]
+27 PEACEFUL DROPSTONES are a potential source of energy for the inner solar system, given the enormous potential energy available between the outer and inner planets. If the dropstone is metallic, it can be decelerated magnetically at the using end, and the kinetic energy stored in capacitors or flywheels. In this case, the source moonlets should be close to the planet rather than far out, so that the higher orbital speed can be used to counteract the heliocentric orbital speed. This allows the dropstone to fall and accelerate into the inner solar system, converting vast amounts of potential energy into kinetic energy.
+28 GIANT PLANET DROPSTONES. A dropstone is ejected off its moonlet in the opposite direction of the moonlet’s orbital motion, which in combination with rocket power gradually nudging it into a highly eccentric orbit around the giant planet. To escape the giant planet, it makes a high thrust Oberth Burn at each periapsis (closest approach). Normally the feeble thrust of the mass drivers cannot significantly nudge the orbit of such a huge dropstone, but the Oberth thrust multiplying effect at the closest approach allows slight changes, enough to eventually liberate it from its giant planet yet leaving it in a circular heliocentric orbit around Sol. Therefore its strike zone is very narrow and because the dropstone is essentially ballistic, it is limited to targets not much closer or further from Sol. This is the reasoning for the rule that the stone can only attack targets within the Heliocentric Zone of origin. A dropstone deorbited from the Jupiter Zone and making a close pass of Sol can reasonably be expected to arrive back in the Jupiter Zone in 6 years.
+
+
+
+
+• Saturnian Norse Moonlets & Methone. A dropstone from one of these 6 moons is deorbited into Saturn, and the Turn afterwards can attack any Site or Anchored Bernal in the G Saturn Zone
+• Uranian Setebos/Sycorax/Prospero Moonlets. A dropstone from one of these moons is deorbited into Uranus, and the Turn afterwards can attack any Site or Anchored Bernal in the L Uranus Zone.
+• Frostline Dislodge. A dropstone dislodged as a tank of water from a Spacecraft can target explosive ice worlds (3D7g), where the impacting water causes a chain reaction.29 The Spacecraft must be in the K Ceres or F Jupiter Zones, but not on a Site, and must expend either 5 FT or 5 tanks of water fuel in the dislodge operation.30 For its first turn it enters the solar oberth flyby (H8e).
+c. Dropstone Stack. Move non-Human cards at the Site into the dropstone Stack. (This is the only time, other than Decommissioning or dive-bomb kamikaze (3E5e), that Tokens may be moved into or out of a dropstone Stack.) The dropstone Stack must contain an Operational thruster (however the thruster does not need any cooling, as the rock itself supplies all the Therms required). This thruster must be of a certain type, depending upon whether the dropstone is made of ice or rock:
+• Dropstone From Hydration 4 Sites. This dropstone is an iceberg, and the dropstone thruster must be non-Human with a base thrust (B2d) of 3 or higher
+• Dropstone From Other Sites. This dropstone is a boulder, and the dropstone thruster must be a nonHuman dirt thruster with a base thrust of 3 or higher.
+29 EXPLODING WORLDS. For reasons that remain mysterious, comets sometimes spontaneously explode into activity that dies down in a few days. The most recent, as I write this, was the Dec 2019 outburst from Comet Wirtanen. In 2005, the venting of water from Comet Tempel 1 increased 250%, averaging 40,000 tonnes per day. This was 5 days after a 19 GJ impact by the deep impact spacecraft, which itself made a spectacular flash, the luminosity of which is still debated, but included water ejected from 1 meter below the silicate layer. Comets can suddenly disintegrate, even well beyond the frostline where no significant solar heating trigger could occur. Some of the better known fragmenting comets include Borisov (an interstellar comet), Schwassmann–Wachmann, and Biela's Comet. The distant centaur Echeclus has undergone frequent outbursts, and the ejection of a huge chunk (see map,11:00g). Part of the answer may lie in the crystallization of ice from its non-crystallized forms, which might release enough energy for a chain reaction.
+30 FROSTLINE defines the boundary where simple molecules condense (dihydrogen H2, dinitrogen N2, dichlorine Cl2, water H2O, ammonia NH3, hydrogen sulfide H2S, carbon dioxide CO2, methane CH4, ethane C2H6). This line is a little less than 5 AU from Sol, well beyond the asteroid belt and just before the orbit of Jupiter. It marks the clear separation between the terrestrial planets and the gas planets. Beyond the frostline, with temperatures below 130K, ice remains on the surface rather than slowly subliming into space. The ice phase that dominates in the outer solar system is low density amorphous ice (ASW), quite distinct from the hexagonal crystalline ice found everywhere on Earth
+
+
+
+• Frostline Dropstone. This dropstone is a 200 tonne tank of water (5 FTs), and the dropstone thruster must be a non-Human water thruster with a base thrust of 3 or higher. Fuel is not tracked. (The impactor must be water, since only water can set off the runaway crystallization31 at the target.)
+• GW/TW Dropstone Thruster. Alternatively, the dropstone thruster for any dropstone can be a GW/TW thruster of any thrust. A single gold FT of isotope fuel must be carried.
+• Solar-Power. If the dropstone thruster is Solar-Powered, modify the base thrust by the stack’s Heliocentric Zone modifier at the dislodgement Site for the above thrust requirements
+• No Manned Dropstones. Only the dropstone Stack of Player Purple (3D1c) can be created with Crew or other Humans.
+• Only One Dropstone. You are allowed to have only one dropstone Stack at any time.
+ou dislodge a dropstone from himalia with a spheromak GW thruster plus its support (an electric generator with a reactor support and remember that the cooling requirements are ignored).
+d. Dropstone Insertion (1st Turn). Once dislodged, a dropstone token of your color must be placed upon the flyby of the appropriate giant planet (or the solar oberth flyby (H8e) in the case of Synodic dropstones).
+• High Velocity. Once underway, the dropstone is in a highly-eccentric-orbit, which disallows any Tokens to land or liftoff it (exception: dive-bomb kamikaze, 3E5e). You can Decommission your cards on a dropstone.
+• Combat/Events: Flyby or Space Oberth Flyby. In one of these Spaces, the dropstone can be range attacked or suffer events as a Site target. The entire Stack is Decommissioned if its thruster becomes nonoperational.
+] The dropstone from the previous example is placed into the Jupiter flyby on its turn of dislodgement. The enemy moves a ship to a radiation belt Adjacent to the flyby and opens fire with two rayguns, taking out the generator. This Decommissions the dropstone.
+EASILY MISSED: The solar oberth is a Hazard space, so a synodic dropstone must roll for Decommission or pay FINAO. [3D7d]
+31 RUNAWAY CRYSTALLIZATION can occur on worlds covered by unstable low density amorphous ice (ASW). This may explain why Comet Holmes suddenly erupted in 2007, increasing its brightness by a factor of half a million over two days as it ejected 100 million tons of dust. Metastable ASW worlds are common at the Frostline (previous footnote), where the solar temperatures are barely below the limit where more stable crystalline phases of ice can form. Even at higher temperatures, ASW can form if it is flash-frozen as snow, more rapidly than the crystals can align. Known worlds with mixtures of crystalline and amorphous ice have a Hazard labeled “runaway ice crystallization” on the map. The reaction converting ASW into crystalline ice is exothermic, releasing over 28 GJ/tonne, making it 6 times more energetic than TNT. Because of its heat of reaction and its high surface area, ASW snow might sustain a chain reaction that could involve the entire world, creating another Comet Holmes. This reminds me of the plot of the science fiction novel Cat’s Cradle by Kurt Vonnegutt, in which the oceans of Earth are frozen by a few seed crystals of ice-9, a fictitious more stable phase of water.
+
+
+
+e. Dropstone Arrival (Giant Planet Flyby 2nd Turn). On its 2nd Turn, this Dropstone must be moved to a Space, which can be any Site or Anchored Bernal in the specified Heliocentric Zone (3D7b). 32
+f. Dropstone Movement/Arrival (Synodic Dropstone 2nd Turn). A dropstone dislodged from a Synodic Comet must on its 2nd Turn move from the solar oberth (D Zone) into the C Venus Heliocentric Zone spot (see illustration in example 3E6). On each Turn thereafter, the dropstone has only 2 options: (1) Attack any Site or Anchored Bernal in the Zone it occupies, or (2) move to the next Zone spot on the map further from Sol. However, it cannot move to a Heliocentric Zone further from Sol than the Site it was dislodged in.
+"g. Dropstone Movement/Arrival (Frostline Dropstones). A frostline attack uses the same rules as a Synodic
+Dropstone (previous bullet), except that the target can only be the Tokens (Factory, Colony, Outposts) on a Site
+that is Hydration 3 or 4 in the K Ceres or F Jupiter Zones.33 A Bernal in one of these Zones may also be targeted."
+• Exploding Worlds. A frostline dropstone that achieves a destroy or damage result also puts a busted disk on the Site and Decommissions/Discards all cards and Tokens. This can create Genocide (3E2m) or exploitation adjust.
+h. One Pass. Once moved to a Site or Anchored Bernal, the dropstone Stack is Decommissioned at the end of the Turn. It is also Decommissioned if the War/Anarchy ends before it reaches its target.
+3D8. Combat (War/Anarchy only)
+Combat is the firing of weapons between Independence and Loyalist players. This is part of movement but must occur after all movement before a Turn is completed. Combat takes place between players with Colocated or Adjacent Stacks. During Anarchy (K2e), combat is optional. During War, it is mandatory (except for specified weapons and ranged attacks)
+EASILY MISSED (Module 1): Per 1B6a, A Mobile Factory moves, attacks, and defends as a Spacecraft if not sitting on a Claim. If on a Claim, it attacks and defends as a Factory, including the Factory gun. [3D8]
+32 DROPSTONE IMPACT. A 5 megatonne iceberg 100 meters in diameter, accelerated by a delta-v of 2.5 km/sec (one Burn), impacts with a force more than ten of the largest nuclear bombs ever detonated. Most of this delta-v comes from the gravity assist, and the target velocity, as the mass drivers can only impart a feeble velocity change to the big chunk of ice.
+33 AMORPHOUS WATER can occur in various solid and liquid forms, the most common being low density amorphous water (ASW). It forms around seeds of very cold dust, and can maintain its liquid form at temperatures between 140 and 210K. It is more viscous than normal liquid water, and is thought to explode if exposed to seed crystals of normal ice. Water rapidly cooled (over 10,000K/sec) below 77K forms hyperquenched glassy water, a quasi-stable form that can be stored for years. High density amorphous ice is formed by squeezing normal ice to 16000 atm at temperatures under 77K. Even if the pressure is restored to ambient, it retains its high density form (1.17 g/cm3). This type of ice can form at temperatures of 30K but low pressure on seeds of interstellar grains, of interest to the panspermia theory. An even higher density form (1.26 g/cm3) is called very-high density amorphous ice. All of these forms may be implicated in explosions noted at frostline temperatures.
+
+
+
+a. Combat Sequence of Play is generally:
+• Complete All Movement. Do not forget to halt when entering an enemy’s Space (3A3d). If you start your move on an enemy occupied space and choose to attack, you cannot move further that Turn.
+• Choose first/next defending space. You may attack a defending space only once/Turn (using all weapons).
+• Resolve Glitch Triggers if any attackers or defenders have a Glitch Token.
+• Determine Who Fires First? In each battle, both the attacker and defender can fire all their unfired weapons.
+• All Defender Weapons Fire. Each defending weapon may fire once per Turn, only against the attacker
+• All Attacker Weapons Fire. Each attacking weapon may fire once per Turn, only against the defending space.
+b. Choosing Defending Space. To initiate combat, choose a single space with enemy Tokens which you can attack with weapons which have not yet been fired this Turn. All the enemy Tokens participate.
+EASILY MISSED: Combat is part of movement, and free actions (G) are disallowed during movement (H1c). Accordingly, free actions such as jettison cargo, deposit glory at LEO, and the epic hazard operation (1A6) to claim a Futures Star, are not allowed during movement/combat. [3D8a]
+You have landed a raygun on an enemy Factory. An enemy Freighter is orbiting overhead, so you have two potential targets. Since the Factory is a pretty tough target, you choose the Freighter as the defending space.
+c. Attackers & Defenders. On your Turn, you are the attacker, and all enemies on the defending Space are defenders. Your allies do not participate in the attack.
+In the previous example, the Freighter has a Glitch and so must make a Glitch Roll. This destroys the Freighter, leaving its Cargo as an Outpost.
+d. Glitch Trigger. Combat is a Glitch Trigger for all attacking and defending Stacks
+e. Combat Order. If the attacker uses a raygun, jammers (3D6a), or a sneak attack (3B3c), he fires first. Otherwise, the defender fires first.
+In the previous example, you must target what is left of the Freighter (the Outpost). You cannot switch your attack to the Factory. Since you have a raygun, you fire first, and Decommission the target.
+f. LEO and Submarine Factories & Colonies cannot attack or be attacked, but other cards on a Submarine Site can be, and can use a Submarine Colony to count as a manned Site (target column F of Table 3E2).
+g. Total War. As the attacker in War, you must attack all enemies in the defending space that you are able to fire upon. The defending space must fire upon all Colocated attackers. However, both the attacker and defender are not forced to fire with weapons firing at range (3E3), kamikaze weapons (3E5), or amat bombs (3E3d).
+In the previous example, the defending Factory can now fire its gun, which destroys your Rocket.
+
+
+
+h. Combat Results. For each combat, follow the firing procedure (3E1), rolling on the Firing Results Table (3E2) to see if your attack succeeds against the target. If successful, see 3D9. 34
+In the preceding 4 examples, suppose you had a gun instead of a raygun. The order of combat would be: (1) Choose defending space (the Freighter), (2) Resolve Glitches, (3) Because you do not have jammers or a raygun, the defender fires first. The Freighter has no weapons, but the Factory is allowed to fire even though it was not targeted. (4) Assuming you survive the projectile from the Factory, you roll for your fire against the Freighter.
+i. POWs & Post Battle Decommissions. Directly after the battle, Human POWs can be claimed by a manned and victorious attacker per 3D9c. Then both the attacker and defender can Decommission surviving nonHuman cards. This can be useful to prevent further victorious attacks by the enemy.
+3D9. Victorious Attacks (War/Anarchy only)
+An attack is defined as all combat in a Turn against a single defending space (3D8b), regardless how many weapons you roll for in your attack. If you are the attacker and your attack causes damage, unanchoring, Factory capture, or Decommission(s) on a defending space, your attack is called a victorious attack. A victorious attack has the potentially war-winning effect to flip an enemy propaganda:
+a. Flip Enemy Propaganda. You must flip a non-extremist enemy propaganda if any exist. If none exist, flip an extremist, and if possible it must be the extremist propaganda of the player who you defeated in combat.
+Your dropstone damages a colonized Yellow Factory and the collateral roll removes 3 Outpost cards. After paying a bribe, you flip the Yellow propaganda, which is the last Loyalist propaganda, ending the War with an Independence victory.
+b. War Hero. If the defender you defeated has glory chits in Reserves, you may steal one (of his choice).
+EASILY MISSED: For an attack to be considered victorious, you must be the attacker, never the defender. [3D9]
+EASILY MISSED: A victorious attack is the only way to flip an extremist propaganda and to win a War. [3D9a]
+34 SPACE COMBAT. For military purposes, a rocket is like a Zeppelin: huge, fragile, impractical to armor or camouflage. Its only advantage compared to a ground base is its maneuverability, but a rocket with enough propellant for a useful delta-v is bound to have an acceleration measured in milligravities. Unless on its last gasp of propellant, it’s about as nimble as the Titanic. In contrast, a hardened asteroidal Site is practically indestructible, honeycombed with cavities hiding the laser, control system, and power storage (flywheels or fuel cells). A facility's staff is housed underground for protection against ambient radiation, so even a surprise attack would face 5 meters of dirt. A laser sized to take out rockets would make tiny pocks in the layer of regolith covering the facility. Each kilowatt-second heats a kilogram of rock about one degree K, and even a size 1 asteroid has 10^16 kg of rock! Moreover, lasers are so inefficient that each shot pours more energy (as waste heat) into yourself than the target. A fort can reject that heat to its nightside, without the radiators needed by rockets. Forts track targets using a phased array radar spread out to defend against lasers and missiles. —H. Keith Henson, L5 News, 1979.
+
+
+
+c. POW Chit. If your victorious attack with Humans was against a Colocated Stack(s) with Crew/Colonists, and after combat the defeated Stack(s) have no Operational thruster other than a Crew thruster, then you must claim the Humans as prisoners of war. Transfer the prisoners to your Stack and place a POW chit on them. This POW chit counts as a 0 VP Glory chit, but is flipped and stored on its 2VP side if brought to your Bank in a ticker tape parade (La) before the end of War/Anarchy. This returns the Crew/Colonist to the owner's Bank.
+d. POWs count as Humans (e.g. Glitch Repair) but otherwise provide no services and don’t count against stack or colonist limits. Any Glory they carry must be moved to your playmat. If abandoned, mark their position on the map using their POW chit. They are Discarded if Decommissioned. They are also Discarded during peacetime (3F4e) or if “liberated” via ticker tape parade.
+3E. Combat Battles
+Combat is resolved one battle at a time, in which a battle is the exchange of fire between the defender's weapons and the attacker's weapons. Either the attacker or defender rolls first for combat (see 3D8e). When it is time for a player to roll for combat in a battle, he is called the firing player and must roll for each of his unused allowable weapons, in any order he chooses. The other player is the targeted player. 35
+a. LEO Security Zone. Combat is not allowed within, into, or out of LEO
+Your Rocket is a kuck mosquito powered by a project orion reactor. The reactor needs one Therm of cooling, provided by a bubble membrane. On your Turn, you land on Ganymede where the enemy has an Outpost. You fire on the Outpost using the gun for the project orion (Orion has a gun since its Rad-Hard >= 8). Then for your operation you prospect using the mosquito. Notice that the single Therm supplied by the bubble was able to cool the reactor during both movement (including combat), and operations for that Turn. If you had lost the bubble during combat, this would prevent your subsequent gun combat and prospecting operation.
+EASILY MISSED: It is a Felony to execute POWs, but everyone is allowed Felonies against enemies during War/ Anarchy. [3D9d]
+35COMBAT ROCKETS. Rockets in the game can be visualized as giant cans of water zipping through space, barely influenced by feeble puttering engines. If manned, the crew sits in the middle of all that water for radiation protection. What would an upgraded military version be like? Perhaps a much more powerful engine? Unfortunately, high thrust engines expend a lot of water. A high thrust fighter would need vastly more water for the same delta-v, and end up just as a fatter version with the same turtle performance. Rockets are inherently fragile, unstealthy, and unmaneuverable. A rocket specialized for combat might trade-off its vulnerable radiators in favor of open cycle cooling, which would make it even more of a propellant hog but would at least not make it much less maneuverable.
+
+
+
+3E1. Firing Procedure
+When it is your time to fire in a battle, roll for each of your weapons in any chosen order:
+a. Operational. Weapon effects are resolved immediately and must be Operational at that moment to be fired. If a weapon is Decommissioned or becomes non-operational before it is fired, it cannot fire.
+b. Combined Arms. All weapons able to make a combat roll must do so, except:
+• Allies Of The Attacker do not fight (until their Turn)
+• Weapons Firing from Adjacent Spaces (3E3) are always optional to fire
+• Kamikazes (3E5) & Amat Bombs (3E3d) are always optional to fire (unless dive-bombing, 3E5e).
+• Firing Solutions. Some weapons can fire in more than one way (e.g. ablative nozzles can kamikaze or fire its gun). If so the owner chooses which way to fire, except that dive-bombing kamikazes (3E5e) must attack as kamikazes, and a dropstone stack must attack a Site or Bernal as a dropstone.
+• Cooling. All of your weapons are considered to fire simultaneously during the combat phase. Thus, if one of your weapons needs cooling, it cannot share a Therm being used by another weapon that is firing.
+"c. Usage. A weapon can fire once per Turn (whether attacker or defender) and is ""fired"" once it rolls for combat"
+• Supports. As in Core (J1b), a single non-radiator support can service multiple weapons. However, a support used to service a firing weapon (e.g. project orion) counts as fired and cannot also be fired as a weapon.
+d. Range / Target. Ranged weapons can target Adjacent (with limits as listed) or their own Spaces. Non-ranged weapons can target their own Space only.
+e. Firing Results. See 3E2. If an attack is successful, see 3D9. 36
+REMEMBER: A Turn is defined in the glossary as the player turn phase (D1), not the 1 year interval on the Sunspot Cycle. [3E1c]
+EASILY MISSED: Hazards don't count towards Adjacency for a ranged attack. See Example 3E3a. [3E1d]
+3E2. Firing Results Table
+Each weapon fired (column A) makes one roll on this chart per Turn. Weapons may be ranged (column B) and/ or allow the attacker to fire first (column C). Roll to determine the fire value (FV, column D), and determine the effect(s) according to where the target is located (columns E, F, G). Effects are applied if the FV is in the listed range. All Colocated enemy Tokens and cards are targeted!
+36 PASSIVE ARMOR is impractical for space rockets because of the large surface areas of fuel tanks and radiators. A layer of aluminum 1 cm thick masses 13 tonnes for a single game liquid hydrogen tank, and a typical high thrust rocket will need many such tanks. To similarly armor a typical radiator takes 80 to 160 tonnes (Mass = 2 to 4), and a rocket with a high fuel economy will need several. Such flimsy armor would not stop a rifle bullet, let alone a meteor. Rather than armor, spaceships will require lightweight leak detection and automated active repair.
+
+
+
+FIRING RESULTS TABLE LEGEND
+a. X-Y: is the range of fire values (FV) required to achieve the effect. (X+ means any value X or higher).
+b. RH is short for rad-hardness (B2j).
+c. 2d6 = the sum of the roll of 2 dice.
+d. Overload causes a number of Glitch Rolls equal to the fire value (FV). All Stacks in the targeted Space are affected, regardless of Human presence. Apply the result of each roll to the combined target Stack(s).
+e. Unanchor . The targeted Bernal suffers the effects of (3E9a), including moving or removing its dome. If already unanchored, it receives a Glitch disk.
+f. Zap. Decommission 1 card, chosen by the firer, with rad-hardness less than the fire value. If an Anchored Bernal is Decommissioned, this is genocide (3E2m).
+g. Damage . If an undamaged Factory is present, place a damage chit to show it is damaged (3E7c).
+h. Glitch . Place a Glitch (red disk) on each enemy Stack.
+EASILY MISSED: An overload is not affected by the presence of a Glitch disk, nor does it place a Glitch. Cards with a RH > 6 are immune to overload. [3E2d]
+REMEMBER: A Glitch Roll Decommissions all target cards with the matching rad-hardness. [3E2d, i]
+
+
+
+i. Collateral . Make a Glitch Roll.37
+j. Destroy has these effects:
+• Decommission Cube. If a Factory is present, remove it and adjust the relevant Exploitation Track.
+• Decommission Domes. If a Colony is present, remove it. This is genocide (3E2m)
+• Unanchor Bernals. If this leaves a Bernal with no Adjacent Dirtsides, it is unanchored (3E9a).
+• Discard Elevators. If at the end of a Turn a Space Elevator has no attached Factories, it is destroyed (1B9f).
+k. Capture CAP . If a Factory is present, swap its cube with one of your color, subject to cube availability (I7f). This becomes a maverick factory (3E8). All enemy FTs at the Site are confiscated. All enemy cards at the Site are Decommissioned
+l. Target Column. Modifiers to the fire value and combat effects depend on the target column (E, F, or G):
+• Unmanned Site (column E). Targets on a Site with no enemy Humans (including no Colonies or Bernals).
+• Manned Site (column F). Targets on a Site that include enemy Humans.
+• Space (column G). Any other location. Targets which are landing in a Turn are considered in space.
+m. Genocide. In combat, if you remove a Colony dome from a Site or an Anchored Bernal (see 3E9a), you suffer the loss of all remaining bribes (given to the victim), non-extremist delegates (O2a), and heroism chits (B3). 38
+Your Rocket containing project orion lands on an unmanned enemy Factory. The defending Factory fires first with its gun, rolling 2d6 = 5, for an FV = 8 - 5 = 3. Because you are landing, you defend on Column G (3E2l), and thus suffer 3 Glitch Rolls: 3, 5, & 6, removing your de laval thruster (RH = 6). But the orion reactor itself (RH = 8) survives with its radiator support, and fires its gun at the Factory, rolling 2d6 = 8, for an FV = 8 - 8 = 0. This is a miss. But your Rocket also has convict colonists (RH = 4), who survived the defensive fire. They deploy their buggy (ISRU = 4) to attack, rolling 2d6 = 8 - 4 = 4. This is enough (3+) to capture the Factory. You replace the cube with one of your color, leaving the Exploitation Track unchanged.
+EASILY MISSED (Combat Decommission): If you Decommission a heavy radiator, orient it to its light side. If a thruster is Decommissioned, you may convert its Fuel into FTs. If a Crew, Colonist, or Bernal is Decommissioned, return it to your bank. [3E2f, 3E2i]
+TIP: War makes buggy and raygun robonauts more important. [3E2l]
+37 COLLATERAL DAMAGE. All facilities on asteroids or moons that are intended for humans to live or work will need to be at least 5 meters underground, due to the harsh ambient space radiation. Space dwellers are troglodytes. Accordingly, ground facilities are automatically hardened against surprise attack, although the mass drivers for factory-assist and the rectennas or solar panels for energy would still be vulnerable to damage. Due to the transparency of space, a ground facility will have months or years to prepare for a non-surprise attack, including laser or missile countermeasures, decoys, and clandestine moving of the facility. Unlike spaceships, facilities on the ground can use mobility, armor, decoys, radiator-less heat rejection, and camouflage.
+38GENOCIDE. In this game, it would be a catastrophic stigma to a bloc if they were responsible for mass civilian deaths, especially in space where every life has immense economic value and investment. It is safe to say that the bloc that sacrifices the moral high ground or gains a reputation for being callous of lives has lost the War.
+
+
+
+3E3. Ranged Weapons
+A ranged weapon is unique in that it can be fired against Adjacent as well as Colocated targets. Firing against an Adjacent target is always optional. A ranged shot can be blocked two ways: (1) if the Adjacent Target is linked to the firer by a buggy road regardless of other connections (the horizon gets in the way). or (2) the Adjacent target or firer is on an Atmospheric Site (the shot is lost in thermal ballooning). Ranged weapons include:
+a. Raygun is any ISRU platform with the raygun icon (I6a). 39 Firing with at least one raygun is significant in the combat order for all your weapons (3D8e).
+• Fire Value is 2d6 minus the raygun's ISRU. If firing beamed gray goo (3D6e), roll 3d6 instead of 2d6.
+• Modifiers. If the target is a Site (manned or unmanned) with any Adjacent Crash Hazards, subtract 2 from fire value (regardless of the number of Hazards).40
+Your big ship with 2 rayguns moves into the intersection shown outside kleopatra, where an enemy manned rocket belonging to Player Red has just landed. The 2 Hazards do not count towards Adjacency, so you may open fire. Your rayguns allow you the first shots. The first raygun rolls 8 minus its ISRU of 3 and minus 2 more for the Hazard modifier equals 3. This is not quite high enough since a manned site needs a FV of 4+ to attain a collateral roll combat effect. The second raygun also misses, and then the defender fires their own raygun.
+39 PARTICLE BEAMS are formed by accelerating charged ions electromagnetically. Such ions are found in the exhaust of most rockets, especially electric ones. Because ions are mutually repellent, they diverge greatly once out of the nozzle, making them useless for power transmission or combat over long range. To stop the divergence, an ion beam must be neutralized in one of three ways: charge exchange, electron beams, or lasers. The first causes unacceptable losses in mass and divergence for our purposes, and the last would double the power required. Electron beam neutralization fires a beam of electrons at the same velocity as the beam of positive ions exiting the nozzle, whereupon they recombine to form neutral atoms. Once neutralized, a beam can no longer be aimed, focused, or accelerated. To minimize divergence, the ions with the lowest ionization energy per mass, accelerated to the highest energies are best. Cesium (Cs), for example, has an ionization energy of just 3.89 eV while having a mass of 133 g/mol. At 250 MeV of energy, a Cs beam would have a minimum divergence of 0.86 nanoradians. Assuming a 10m long accelerator with current technology and an ion source designed to minimize divergence, this beam would have an overall divergence of 40.5 nanoradians. It could cross 1000 km in 50 microseconds and remain focused on a spot 8.1 cm wide. Better focused beams can be achieved if negatively-charged ions are accelerated for neutralization instead of electrons. At the extreme ranges in the game, in which each pivot is 16.6 light minutes, a particle beam will need to be channeled with a laser beam (see left) to encourage the beam to condense and thus reduce divergence by 42%. A laser-coupled cesium-iodine beam attains a divergence of 0.035 nrad, allowing a spot size of 3.5 cm over a million km (several light seconds). —Malik Matterbeam, ToughSF: Particle Beams In Space, 2019.
+40 LANDING/LIFTOFF HAZARDS include rapid spin, signifying an asteroid with a day that is less than 5.5 hours. This complicates firing solutions and facilitates hiding or safely deploying phased array radar while on the farside.
+
+
+
+b. Gun is any card with a rad-hardness of 8 or higher. Furthermore, each Factory has a gun, firing with a rad-hardness of 8.41
+• Fire Value is the rad-hardness of the gun (Factories use RH = 8) minus 2d6.
+• Modifiers. None.
+Your 2 buggies (1 of which is your Crew) storm an enemy Factory. She fires first with her factory gun, rolling snake eyes (2). Thus her FV is 8 - 2 = 6. For her collateral roll, she rolls a 4. Both of your buggies have RH = 4, and both are Decommissioned.
+"c. Fighting Mirror is any card with an ISRU platform that receives beamed power via the Powersat privilege, which can be negotiated (N4a). A fighting mirror must be in space; it will not work on a Site.42"
+• Fire Value is 2d6 minus the mirror's ISRU.
+• Modifiers. If the target is a Site (manned or unmanned) with any Adjacent Crash Hazards, subtract 2 from fire value (regardless of the number of Hazards)
+You have a Powersat Home Bernal, which allows your robonaut in the gefion family barycenter to attack Ceres. The Submarine Factory/Colony is underwater and safe from attack, but the enemy has an Outpost there. You make a 1d6 collateral roll = 3. This Decommissions the 2 Outpost cards that have RH = 3.
+d. Antimatter (Amat) Bombs can be fired as a faction weapon (3D6f) by the Crew and Bernal cards of Player Purple. If a player has an Antimatter Bernal Lab, his Crew and Bernals can fire amat bombs without cost.
+• Cost. You must pay 1 Aqua to fire this weapon. Like all costly weapons, its use is always optional.
+• Limits. Amat bombs cannot be fired at space targets other than Bernals.
+• Fire Value is 2d6.
+• Modifiers. None.
+e. Buggies. See 3E4a.
+41 FACTORY GUN is actually a repurposed coilgun or mass driver designed for factory-assisted launches of spacecraft or products from the factory site. A factory could also deploy a flotilla of orbital fighting mirrors, each capable of reflecting a diffuse portion of a laser shot, giving it a vastly superior range over comparable lasers on a rocket.
+42 FIGHTING MIRROR is a mirrored concentrator, directing and focusing laser beams from a distant source onto a target. The larger the adaptive optics, the larger the range. Diffraction gratings or chirped mirrors install negative dispersion to offset the positive dispersion of the laser medium. As a weapon, lasers have the considerable advantage that they can fight without sacrificing mass, but their disadvantage is that they generate more energy as waste heat than they can direct at a target. A fighting mirror overcomes this disadvantage by mounting the laser on a huge heatsink, such as an asteroid, and using fighting mirrors closer to the target to do the work.
+EASILY MISSED: Abilities that adjust the ISRU (e.g. divining nubots) are relevant in ranged combat. [3E3a,c]
+EASILY MISSED: An ISRU platform does not need the push icon to be used as a fighting mirror. [3E3c]
+
+
+
+3E4. Buggy Weapons
+Buggy weapons are any ISRU platforms with the buggy icon (I6b). Firing with a buggy simulates storming a facility with remotely-piloted vehicles.43
+a. Limits (Sites). The target must be on a Site either Colocated or accessible along a buggy road (B7f). Thus, a buggy road makes a buggy into a ranged weapon (3E3) which defends as a manned Site if it originates from a manned stack.
+b. Limits (Space). Buggies cannot be deployed against space targets other than Bernals.
+c. Fire Value is 2d6 minus the buggy’s ISRU.
+d. Modifiers. None.
+TIP: Buggies and jammers are a deadly combination against Factories. [3E4]
+Your UN Crew has a buggy platform. It is Colocated with an enemy Outpost, Factory, and Colony on Luna. Your attack has no rayguns, so the defending Factory gun fires first, rolling a 7, for an FV = 8 - 7 = 1. You must make one Glitch Roll, which is a 6. Since you have no cards with rad-hardness = 6, you are unscathed. Now it's time for your buggy attack and you roll a 9. Subtracting the ISRU of the buggy (4) leaves an FV = 5. This is enough to destroy the Factory and Colony! You suffer genocide (3E2m) and adjust the exploitation table.
+Same as the previous example, except you additionally have a rock rats colonist with an ISRU = 3 raygun, and attack first with both them and your buggy crew. This is a single attack, with the Crew supporting the Colonist (driving them in the buggy). You have the choice to use either ISRU = 4 or ISRU = 3, and naturally you choose 3, the better ISRU.
+Same as the previous example, except the defender also has an Operational buggy with ISRU = 3. Therefore your opponent makes two attacks during his defense (the gun and the buggy). The buggy rolls 4 on 2d6, for a FV = 1. This achieves a collateral, and it rolls a 4 on its 1d6 Glitch Roll. This kills your Crew and returns its card to LEO.
+43 INFINITE PROPELLANT. All vehicles require mass to maneuver, but a ground vehicle enjoys nearly infinite propellant (but not infinite fuel). If a buggy wants to go in one direction, its wheels push the asteroid it is on in the other direction, causing it to spin ever so slightly. Thus the buggy is using the entire asteroid as reaction mass. Applying conservation of energy and conservation of momentum means that essentially all the buggy’s energy goes into moving the vehicle, compared to a rocket in which almost all the energy goes into moving the propellant. A typical airplane is halfway between these extremes, expending about half its energy moving itself, and the other half moving air backwards with its jets or propeller. But an airplane also enjoys infinite propellant, and can turn circles, loop, barrel roll, stall, swoop, and other maneuvers essentially forbidden to a rocket. A rocket can readily change the direction its nose is pointing, but unlike airplanes, rockets do not travel the direction they are pointed. A typical rocket in the game using its full thrust to turn may produce a noticeable change in direction only after hours of observation.
+
+
+
+3E5. Kamikaze Weapons
+A kamikaze weapon is an unmanned thruster or Freighter fired as a missile against a Colocated target. Like dropstones, kamikaze weapons and their supports are Decommissioned after firing. Unless dive-bombing (3E5e), using kamikaze weapons is always optional.44
+a. Kamikaze Stack. Kamikazes form their own Stack, which can move separately from the Stack it was created from, as long as it does not enter any Burns (exception 3E5e) or make any Pivots. Because this Stack is Decommissioned the same Turn it is created, it does not count against your Rocket Stack Limit (E5b). It does not carry or track Fuel. It does not need to stop when entering an enemy-occupied Space.
+b. Kamikaze Fire Value is base thrust (Freighters use net thrust) minus 1d6.
+] A Rocket Stack containing just the programmable matter robots kamikazes a Lofstrom Loop Bernal (RH = 8). The Bernal attacks first with its gun, and rolls a “8”. This obtains an FV of 8 - 8 = 0, not quite enough to destroy the robotic kamikaze. The missile then strikes and rolls a “1”. It has a base thrust of 2, so this obtains an FV of 2 - 1 = 1, This is enough to unanchor the Bernal, and also make a single Glitch Roll against any cards in the Bernal Stack.
+c. Kamikaze Modifiers. Biological warheads (3D6b) add 5 to the FV.
+d. Human Kamikaze. Except for Player Purple, Humans may not ride on the thruster used to kamikaze (3D1c).
+"e. Dive-Bomb Kamikaze. During movement, a Spacecraft that you intend to use as a kamikaze later that Turn may treat lander burns (H5e) associated to a target Site as lagrange spaces (i.e. not counted as Burns). The Stack is required to attack as a kamikaze weapon during Combat that turn; if unable to attack, it is Decommissioned at the end of combat. Dive-bombers can attack dropstones (3D7d)."
+Your Rocket Stack in GEO launches a MET missile robonaut, plus its generator support. You move this Stack through the lunar lander burn to attack an enemy Factory on the shackleton polar rim. Because this dive-bomb route ignores the lander burn, and does not enter any other Burns, the kamikaze MET does not need fuel nor does it count as a Rocket Stack.
+44 MISSILES. The overwhelming imperative of every combat vessel is to save mass. Lessons learned from fighter jets and battleships, surrounded by potential reaction mass for cooling and propulsion, are inapplicable in space. In particular, the mission delta-v of a space warship can ill afford to sacrifice the mass needed for missile propellant. Moreover, space missiles can’t be camouflaged or use decoys, can’t swoop or dodge, are marshmallow soft, and travel such vast distances that the defense has days or months to pick off any number of them. At short range, however, missiles can be effective. Against rockets, they need no warhead, depending on kinetic kill. The destruction of the missile in no significant way reduces the kinetic energy of its fragments, still deadly given the relative immobility and fragility of the targeted rocket. If the target is a surface installation, a nuclear bomb is helpful to create a crater large enough to excavate the target. Nuclear bombs also give off x-rays which cause dangerous spalling, neutrons which harm living tissues, and an EMP pulse which destroys uncaged electronics.
+
+
+
+
+3E6. Dropstone Attack
+A dropstone is a special Spacecraft Stack containing an Operational thruster (plus a boulder, iceberg, or water tank represented by the dropstone token). Create it per 3D7b and move it per 3D7d,e,f,g, using your dropstone token to mark its progress towards a target. Decommission the entire dropstone stack after rolling for its attack.
+a. Vendetta. Except for Player Purple, you must pay the target a bribe (3D1e) to attack with a dropstone.
+b. Limits (Target). A dropstone cannot target space targets other than Anchored Bernals.
+c. Fire Value is 2d6.45 Note that cards in a dropstone Stack can attack/defend using other types of weapons.
+d. Modifiers. None. Note that a successful frostline attack (3D7g) Discards all tokens and busts the Site.
+e. Immune to Counterattack. The dropstone attack is unaffected by combat during the Turn of its attack.
+Your heliocentric dropstone token is in the Earth Zone as shown. It's your turn, and you can either move it into the Mars Zone, or use it to attack an enemy Bernal at Earth-Luna Lagrange L2. You choose the latter, and pay the defender a bribe. After all your Spacecraft have moved, you roll 2d6 for your attack. Your roll is a 5, enough to unanchor the Bernal.
+3E7. Factory Damage & Repair
+A Factory can suffer 3 possible combat effects: capture CAP , damage , or destroy . 46
+a. Capture CAP . See 3E2k.
+b. Destroy . If a Factory is destroyed, Decommission its cube and adjust stock prices on the Exploitation Track. If there are no more Factories of a Spectral Type, its stock price is 10. If a Colony dome is present, this is also Decommissioned, with genocide (3E2m).
+TIP: Rayguns are powerful in attack or defense against space targets, but lack the punch necessary against Factories or Colonies. Guns, buggies, dropstones, biological warheads, or amat bombs are better. [3E7b]
+45 KINETIC KILL. Dropstones utilize the enormous kinetic energy between orbits and don't need warheads. Moreover, their thrusters can be a million times more armored than a rocket. The downside is that they need years to attain an attack orbit, and can only be deployed from orbits which are already in shallow unstable gravity wells and thus can be more easily diverted.
+46 FACTORY ROBUST POWER. Factories on comets may derive electricity from voltage differences driven by solar wind. Such power would be robust against combat. Alternatively, charge accumulation can be discharged by an approaching neutrally-charged projectile, powerful enough to ignite amorphous snow or damage electronics with EMP. Such a powerful static discharge was seen on the Deep Impact probe moments before it collided with Comet Tempel 1. “Beyond the frostline, a comet’s nucleus has no protective atmosphere to shield it from the solar wind or solar UV radiation. Consequently, the nucleus gets charged between small positive values on the sunward side to very large values on the night side. The night side potential is strongly modulated by the local solar wind speed.” —E.C. Whipple et. al, On the Electrostatic Charging of the Cometary Nucleus, 1981.
+
+
+
+c. Damage . If a Factory is damaged, indicate this by placing a damage chit over the Claim but under the Factory cube. For damage effects, see the next 3 bullets. Damage does not affect the Factory's stock prices, Colony (if any), or ET production
+d. Factory-Assist/Dirtsides Crippled. Factory-assist (H6c) and factory-refuel (I5b) is disabled by damage. Thus, a damaged Factory cannot serve as a Dirtside, cannot activate factory refuel or dirt refuel in an Adjacent Bernal (2A7d), and cannot produce its products in Adjacent Bernals. It also cannot add to Dirtside Hydration. If all of the Dirtsides of a Bernal are damaged, it becomes unanchored (3E9a). 47
+e. Factory Gun Disabled. A damaged/destroyed Factory no longer has a gun (3E3b). 48
+f. Mobile Factories. Promoted Freighters (1B6) on a Site defend as Factories. If damaged, they cannot liftoff. If not on a Claim, they defend as a Spacecraft (using the Freighter card’s values including rad-hardness, see 1B6a).
+The enemy dislodges a heliocentric dropstone, and you suspect your Factory is at ground zero. You promote your Freighter, allowing you to move the targeted Factory as a Mobile Factory into the safety of space.
+g. Victory Points. A damaged Factory and its Colony (if any) count for no Token VP at the endgame.
+h. Repair. Damaged Factories are repaired (remove its damage chit) by an industrialize operation (I7) that Decommissions an Operational robonaut at the Site.
+i. A Space Elevator is destroyed if all attached Factories are destroyed (1B9f). Remove the Elevator’s Token.
+• Earth Exception. The Earth Space Elevator is permanent once built, and is not removed even if its Home Bernal has exited.
+EASILY MISSED: Exceptionally, the industrialize operation that repairs a Factory does not need a refinery. [3E2h]
+47 FACTORY DAMAGE. The surface facilities of a factory include its electromagnetic launchers (next footnote), its water depots, its communication and radar towers, its solar panels, and its robonauts busy gathering ores. These are soft targets. The living quarters and manufacturing facilities are at least 5 meters underground to protect against the harsh ambient radiation in space, and these are the hard targets. But the transparency of space means that even the soft targets are pretty hard. A lookout with a telescope can detect an attacking rocket weeks before it arrives, allowing soft targets to be moved, hidden, or buried. Because units on the ground accelerate easily, while rockets accelerate lethargically, any projectile defense is far more effective than offense.
+48 FACTORY-ASSIST is accomplished electromagnetically with surface coilguns or mass drivers, These launchers and their capacitor banks are soft targets. The launch capsules are limited to a few gees when launching humans, but can be 10 gees if launching water or bulk materials.
+
+
+
+3E8. Maverick Factories
+During a Factory forfeit (3B3c) or capture (3E2k), the Factory cube becomes a different color than the Claim and/ or the Colony. This is called a maverick factory, As an exception to (1B6c), the Token color determines who gets Token VP (M2a), but the cube color determines who decides what gets produced and obtains factory stock price VP (M2b) in the endgame. Colony Dome Location VP (M2b) goes to the faction color of the dome
+a. Mobile Factories. If allowed Felonies, your Mobile Factory may Claim Jump enemy Claims by landing on them.49 A Mobile Factory can also land on the Claim of an ally by negotiation (G6a), both in War and peace.
+Your promoted Freighter lands on an enemy Claim. Because it is War, you Claim Jump (a Felony free action), changing the Claim to your color and gaining an instant Factory. This adjusts the Exploitation Track.
+3E9. Bernal Unanchor (Module 2)
+An Anchored Bernal can become unanchored due to (1) an unanchor result in combat (3E2e), (2) loss of its allied Dirtsides (e.g. by combat or defection), (3) War/Anarchy restriction (3C3e), or (4) a voluntary unanchor (2B6).
+a. Unanchor Effects. If a Bernal is unanchored involuntarily, it suffers the following effects:
+• Remove Colony Dome (2B6a). The lack of dome indicates it is unanchored. Place the dome onto one of the Bernal’s Dirtsides. If no uncolonized Dirtsides are available, return it to Reserves, with genocide (3E2m)
+• Homeless (2B6b). During peace, the number of Colonists you are allowed is equal to your Anchored Bernals (2Ca), so that upon unanchoring you must Discard your choice of one of your Colonists (two, if the Bernal is promoted). During War/Anarchy, the number of Colonists you are allowed is equal to your Bernals (both Anchored and unanchored, see 3A3g)(plus 1 for each promoted Bernal), so that you Discard Colonists if the Bernal is destroyed, rather than when it is unanchored
+TIP (Module 2): If you Anchor your Bernal Adjacent to the promotion colony specified by its dome icon (2A3b), you can Promote it into a Lab, and then use the Lab to Promote your Colonist, Freighter, and GW Thruster cards. [3E9]
+EASILY MISSED (Module 2): During peacetime, anchoring generates exomigration (2A5f), or 2 exomigrations if the Bernal is promoted. [3E9]
+" 49 A MOBILE FACTORY is much more mobile on the ground than in space. Contrary to intuition, (and contrary to Hollywood), almost anything
+on a surface is much more mobile than anything in space. In a factory versus rocket combat situation, the mobility advantage lies with the
+factory, not the rocket! A typical space factory with 100 tonnes of mass is lightweight on a low gravity world. On a size 1 asteroid, it weighs 750N,
+or 169 lbs. Even on a much bigger world, a buggy can tow it at tens of milligravities in any direction. This compares to a rocket with a net thrust
+of 6, which can accelerate at 10 milligees, after which it is still moving in essentially one direction. A rocket’s practical maneuverability is so limited
+that, for targeting purposes, it might as well be stationary during the months of its approach. For one thing, a rocket without wings or atmosphere
+cannot dodge or swoop. For another thing, rockets are massive, mainly due to propellant (unless it is on its last few tonnes of water, in which it
+effectively becomes ballistic space junk). This mass and resultant kinetic energy associated with high speeds means that a high thrust course
+change, the type made by rotating the rocket 90 degrees and firing the main engine, will produce a milliradian course change after an hour. This is
+with the thrusts typical in the game, higher thrusts are possible but waste precious propellant, and still will make little more than a degree of course
+change in an hour. Rockets are essentially unidirectional except in the very long term."
+
+
+
+
+
+• Homeless (2B6b). During peace, the number of Colonists you are allowed is equal to your Anchored Bernals (2Ca), so that upon unanchoring you must Discard your choice of one of your Colonists (two, if the Bernal is promoted). During War/Anarchy, the number of Colonists you are allowed is equal to your Bernals (both Anchored and unanchored, see 3A3g)(plus 1 for each promoted Bernal), so that you Discard Colonists if the Bernal is destroyed, rather than when it is unanchored
+• Dirt Refuel (2B6c). You may add a gray Wet Mass Chit for the Bernal and set it to any value per G1c. This represents converting its dirt shielding into dirt propellant.50
+• Unanchored Home (2B6d). If you unanchor your Home Bernal, you lose the benefits of 2B3. It can no longer function as a Bank (3A3j), and if it holds Aqua, convert them to FTs. Your faction privileges and weapons are locked. Its Home Ability (2B3c) and profits (2B3d) are shutdown. You may not boost to there (2B3e).
+• Supports (2B6e). The unanchored Bernal must be provided with its supports to either activate its thruster or to re-anchor. The latter Decommissions the supports.
+REMEMBER (Module 2): An unanchored Home Bernal loses its home benefits (2B3, including profits & faction privileges) and faction weapons (3Aa). [3E9a]
+Your Bernal is unanchored by a dropstone. This moves its colony dome to its uncolonized Dirtside. Because it's wartime, no Colonists are Discarded due to colonist limits (3A3g). You fully load it up with dirt (setting a gray Wet Mass Chit). (Per footnote 49, this dirt is taken from the Bernal's now useless dirt shield, so no Dirtside is needed for this dirt refuel.) Because it doesn’t have a generator, its dirt thruster is not Operational and can’t be activated.
+b. Target. A Bernal (whether Anchored or not) always defends as a space target (3E2 column G). Combat does not affect a Bernal's promoted status.
+c. Redundant Unanchor. If a Bernal that is already unanchored suffers an unanchor combat result, place a Glitch token on its Stack (unless it already has one
+d. Cancer Hospital/Lab. Place the red cross chit under this Bernal as a reminder that it is not a combat unit, does not interrupt movement, and always evades the No Home Bernal restriction (3D4c). No combat is allowed to or from this Bernal or any Colocated Tokens.
+REMEMBER (Module 2): When boosting or building the Cancer Hospital, it is your responsibility to add its red cross chit. If you forget, your opponents can't be held responsible if it gets attacked! [3E9d]
+50 DIRT SHIELD. As soon as a Bernal is anchored, it is covered with hundreds of Mass points of dirt as a radiation shield. This dirt is regolith that is catapulted from a dirtside factory. It is essential for making the space station habitable, and comprises the vast majority of a colony’s anchored mass. If the Bernal is unanchored, the dirt can be used as propellant, making the Bernal into a giant dirt rocket for the next anchorage.
+
+
+
+3F. ET Home Bernals & Postwar
+3F1. ET Home Bernals (Module 2)
+If during War you are a member of the Independence (B), or in a postwar Space Republic (3F5a) (everyone), then you may count your Stanford Ring Anchored Bernal with a dirtside hydration of 4 or more as your Home Bernal. This Home Bernal, called an ET Home Bernal, is the same as a terrestrial Home Bernal except you cannot boost there from Earth (2B4e). Furthermore, these Abilities and Privileges are not lost in War or Anarchy. Additionally:
+a. Bank. Transfer your Aquas (blue beads) to your ET Home Bernal, which is now your Bank (3A3j).
+b. Faction Privilege & Faction Weapon Unlocked, even during War/Anarchy or peace.
+c. Bernal Home Abilities Unlocked, even during War or Anarchy.
+d. Profits. One Aqua per turn.51
+e. Second Bernal. Although you cannot boost to an ET Bernal, your second Bernal acquired goes directly to your ET Home Bernal.
+f. LEO Bypassed. After you anchor an ET Home Bernal, all actions and operations previously performed in LEO (except boost) must now be performed at this Bernal's orbit, which becomes the destination for:
+• Decommission of Crew (E7c),
+• Combat Casualties. If your Colonist is Decommissioned as a result of Murder/Suicide or combat, it immediately restarts here
+• Delivery Operation (I9) if not using Module 1.
+• Ticker Tape Parade (La).
+• Free Market for the sale of Black-Side Cards only (I3b). However, respect the no snow to Inuit rule (3B4a)
+• Exomigration (2A6). Your Colonists exomigrate here.
+g. Building Space Elevators (Module 1). If your ET Home Bernal is a Lofstrom Loop Microgravity Bernal or Elevator Bernal in a lagrange space (including lagrange burns), and there is a single lander burn or single half lander burn between that Space and a Dirtside, then you may perform an epic hazard operation (1A6) to build a Space Elevator.
+EASILY MISSED: An ET Home Bernal is the same as a Home Bernal, including if unanchored or Decommissioned. [3F1g]
+NOTE (Module 2): The Stanford Bernal designates your Home Bernal or ET Home Bernal. But if your Kalpana is anchored where you want your Home Bernal to be, you are allowed to swap Stacks and Tokens to make the Stanford into a Kalpana. [3F1a]
+TIP (Module 2): The Galilean moons (Callisto, Ganymede, Europa, & Io) are great places for a loftstrom/GEO space elevator. [3F1g]
+51 BERNAL PROFITS. A Bernal orbiting an icy world with a small gravity well has access to an abundance of cheap water. As noted in footnote 17 (Core Game), this inflates local prices in Aqua, and makes exporting Aqua attractive. Thus, an increase in the supply of money quickly flows to other Bernals as the inhabitants make purchases abroad.
+
+
+
+• Operation. The Bernal is considered to be the unit performing the epic hazard operation (1A6), but is not Decommissioned in the event of failure
+• Route. The elevator can be built from the Bernal through a lander burn or half lander burn to any Dirtside, or along a printed route that is linked to your Bernal or any of its Dirtsides.
+• Limit. Each Site is allowed only one Space Elevator
+• War Petition. During War/Anarchy, building an elevator to your ET Home Bernal in the M Earth or E Mars Zones requires a petition (3D4c) in the authority ideology
+• Token. Place a Space Elevator Token over the Burn, or over the Space Elevator icon printed on the map if there is one.
+h. Radiation Cycler. Your Anchored Tourism Cycler allows safe passage through any Colocated or Adjacent Radiation Belts
+Your Bernal has a Dirtside on Haumea as shown. Because it can't Anchor at a Hazard Space (such as the ring), it Anchors where shown (which is still Adjacent to its Dirtside). By moving a Freighter to the ring and performing an Epic Hazard Roll, you establish a Space Elevator and place a gray stick where shown. If your Bernal is the Lofstrom Loop Bernal, you don't need the Freighter.
+EASILY MISSED (Module 2): An ET Home Bernal with the boost ability over Ganymede could build 2 elevators (one at uruk sulcus & one at memphis facula). [3F1g]
+3F2. Futures & Combat (Modules 1 & 2 Futures)
+The successful completion of certain Futures (1D) has an effect on combat:
+a. Mini-Black Hole (TW Thruster Future, 1D3b). May dislodge (3D7) dropstones from any Size 1 Site. Send them to either the solar oberth or (if it's a moonlet) to its planetary flyby.
+b. Mass Beam (TW Thruster Future, 1D3c). The FV of your guns (3E3b) is their firing rad-hardness minus 1d6 (instead of minus 2d6).
+c. Enzmann Starship & Lithiated Ammonia Ice (TW Thruster Futures, 1D3f,g). As a once-per-turn free action, you may destroy any dropstone.
+d. Beehive Ark (Freighter Future, 1D4b). Your Tokens on Size 1 Sites are immune to all combat.
+e. Antimatter (Freighter Future, 1D4f). Gain amat bomb weapons (3E3d), which you can use without paying Aquas
+f. Golden Apples (Freighter Future, 1D4e). FINAO is no longer a war restriction (3D5e) for all players. If other players pay for FINAO during the War (whether Aqua or Isotopes), you receive the payment.
+g. New Venus & Footfall (Colonist Futures, 1D5a,f). If using Module 3, to complete this Future (in war or peace), you must use the dislodge operation (3D7) to convert the Synodic Comet into a synodic dropstone that targets Venus or Earth. This busts the comet (to indicate it has been deorbited). This is a vendetta (3D1e).
+• Completing either of these Futures allows you to use the dislodge operation to convert other Synodic Comets into dropstones that can target any Site during War/Anarchy. Further, no bribe is necessary to attack.
+• Target Effects. In all cases, use the dropstone stack rules (3D7c), insertion rules (3D7d), and movement/ arrival rules (3D7f). The impact automatically busts the target Site, destroying all its Tokens (with genocide if the target is Earth or colonized). The dropstone stack is destroyed as well.
+h. Dyson Bubble (Colonist Future, 1D5j). May prevent your opponent from using Solar-Powered cards during combat against you. The use of this Ability may be negotiated (N) with your allies, regardless of location.
+"Your ally is under attack by a raygun using Solar-Power. Before the dice are rolled, he asks you for help. You respond that you will block the attacker's sun in return for a bribe. In the interest of providing a realistic experience, please limit these sorts of ""real time"" negotiations to less than 15 seconds."
+
+
+
+3F3. Truce
+If you have petitioned to evade the restrictions on enemy negotiations (3D5c), then you can temporarily end the War by declaring a truce (free action). War effects end at the end of your Turn, but can resume per 3C.
+a. Cost. You must pay 4 bribes to your enemies, such that each enemy gets at least one (if possible).
+3F4. War End & Victorious Bloc
+If all 6 propaganda chits (3A2f) are flipped to one side at the end of combat in a Turn, the War ends and that bloc is the winner of the War (but not necessarily the winner of the game!). The War also ends if any time after a defection (3B3c) all players are on the same bloc. War effects (3D) stop at the end of that player’s Turn.52
+a. War Is Over. Once the War ends in victory for one bloc, combat is not allowed except during Anarchy. In-flight weapons such as dropstones cannot attack during peacetime (this overrides “must attack” rules for weapons). There are no more war outbreak rolls (3C1), since the War is over and will not resume.
+b. Revival of Sol Political Assembly. If the Independence bloc wins, the 1st Player moves the Active Law (star token) into the political assembly, into his choice of Ideologies among those with the most delegates. Normal Module 0 rules resume. Use Space Republic rules 3F5a
+c. Dissolution of Sol Political Assembly. If the Loyalist bloc wins, spacefarers no longer have a political voice. Remove the political placard. This Discards all delegates and the Active Law token, propaganda, any bribes, and the placed (legacy vote) Seniority Disks. Thereafter use the Space Empire rules 3F5b.
+• First Player. The current 1st Player remains the 1st Player for the rest of the game
+Five propaganda are flipped to Loyalist, leaving only one Independent. As an Independent, on your Turn you decide to capitulate (a free action), flipping the final propaganda to Loyalist. The War ends and your side loses. The players stack the Seniority Disks and retrieve their delegates, and then the political assembly and all its remaining stuff are unceremoniously dumped into the box!
+EASILY MISSED: A truce lasts only to the next Anarchy or War outbreak. [3F3]
+52 HOW DO WARS END? Since the beginning of the 20th century, 85% of civil wars have ended through military victory rather than international intervention or other negotiated settlement. —Lincoln Bloomfield, Why Wars End: CASCON's Answers from History, 1997.
+
+
+
+d. Defeated Players. All players without extremists have lost the War and forfeit all bribes in their Reserves to their choice of player(s) with extremists.53
+e. POW Release. All prisoners of war cards are returned to the owner’s bank (3A3j) if Crew, or to the bottom of the Colonist queue if Colonist. Discard any POW chits that have not been flipped to the 2 VP side via ticker tape parade (3D9c).
+f. Colonist Limits. After War/Anarchy ends, at the start of your turn you are once again limited to having a number of Colonists equal to your number of Anchored Bernals (plus 1 for each Anchored and Promoted Bernal). Compare to 3A3g. On your Turn, if you have too many, choose Colonists to Discard to the bottom of the queue to bring you into compliance with 2Ca. If you have too few, perform exomigrations (2A6), drawing from the top of the queue until you comply.
+g. Space Lord. If you still have your extremist and you cause your bloc to win the ongoing War on your Turn, you may end the game immediately at the end of your Turn. Score per 3G1 to see who won the game.
+TIP: If your enemy can win by space lord, or if you have lots of vulnerable holdings, it may be best to truce, defect or capitulate. [3F4g]
+3F5. Postbellum Turns & Games
+Turns and games of High Frontier played in a future after the War of Independence use different rules depending on whether the Independents or the Loyalists have won the War:
+a. Space Republic (Flag = B). If the Independents have won, Module 0 but not Module 3 is used. When the Anarchy event occurs use K2e, and the rules for ET Home Bernals (3F1) remain in effect.54 You no longer need permission from the 1st Player to prospect Luna. You can Anchor Bernals to Luna
+b. Space Empire (Flag = M). If the Loyalists have won, Module 0 is not used, but Module 3 can be used. When the Anarchy event occurs use the Age of Piracy variant (3Ad), and ET Home Bernals are not used.
+53 REPUTATION. The more bribes you end with, then the fewer you have used for bribes or vendettas, and thus the more honorable you seem
+54 FREE TRADE. This is what all the fighting was about. The Core game assumes that all trade is between Earth and the colonies, and that trade between the colonies is legally forbidden by an Earth-based government. Such a “royal monopoly”, backed by the guns of the regime, is commonly the case in colonies such as Viking Greenland, Spanish Main, and Porfirian Mexico. (See my games Greenland, Lords of the Spanish Main, and Pax Porfiriana for details).
+
+
+
+3G. Module 3 Endgame
+The game ends when Seniority Disks are exhausted per Core (M1).
+3G1. Endgame Scoring Table
+Scoring is per the Core Game (M2), except apply the victory point multipliers shown in the last 3 columns in the table shown to the right. Apply these to all players, regardless if they won or lost the War.
+a. Ties. Resolve ties by most Aqua, counting gold beads as 10 Aqua. If still tied, share the victory or position.
+] Independence wins the War, and later the game ends in a Space Republic. You score exactly as per the Core Game (M2), except no Token VP for damaged Factories/Colonies.
+EASILY MISSED: The political scoring (O7) for some of the Ideologies are changed from Core. [3G1]
+
+Bonus VP: Depends on the Token’s location:
+Politics VP: Increase the Token VP for all players according to nal position of Acting Law:
+Bernal VP: For specic Anchored & Promoted Bernals:
+Promoted Cancer Hospital Bernal : +1 VP per Colony dome. Promoted Climate Control Bernal: +2 VP per Dirtside for this Bernal. SSO Diplomatic: +1 VP per delegate in the Ideology ofyour player color. Promoted Diplomatic Bernal: Your delegates are +1 VP each. Tourism Cycler: +2 VP per Dirtside for this Bernal.
+• Freedom • Honor = + 1 VP per glory chit. • Unity = +1 VP per Colony dome.+1 VP per heroism chit. • Authority = +1 VP per Claim. • Equality = +1 VP for each uncorrupted delegate
