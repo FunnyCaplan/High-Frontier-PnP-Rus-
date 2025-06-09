@@ -6,3 +6,19 @@ Aqua;Вода
 Claim;Участок недр
 Sites;Объекты
 Factory;Фабрика
+
+Glossarium
+
+ 1st Player;1-й Игрок
+ Ability;Способность(эффект)
+ Active Law;Действующий Закон
+ Active Thrust Triangle;Действующий Символ Тяги
+
+ Thrust Triangle;Символ Тяги
+ Adjacent;Смежный
+ Buggy Roads;Пересеченная Местность
+ Aerobrake Hazard;Опасность Аэродинамического Торможения
+ Aerobrake Hazard Roll;Проверка Опасности Аэродинамического Торможения
+ Air-Eater Operation;Технология Воздухоплавания
+
+
