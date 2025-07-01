@@ -6,6 +6,7 @@ Aqua;Аквабаллон
 Claim;Участок недр
 Sites;Объекты
 Factory;Фабрика
+VP;ПО
 
 Glossarium
 
@@ -62,11 +63,97 @@ Glossarium
  Exploitation Tracks;Трек Дефицита
  Faction;Фракция
  Factory;Фабрика
- Factory-Assist Hazard;
- Factory Hijack;
- Factory Loading Only;
- Felonious;
-
+ Factory-Assist Hazard;Опасность Вспомогательного Приземления
+ Factory Hijack;Захват Фабрики
+ Factory Loading Only;Загрузка Только на Фабрике
+ Felonious;Рецидивист
+ Felony;Уголовное Преступление
+ Figure;Компонент
+ FINAO  (Failure Is Not An Option); ПНД (Провал не Допустим)
+ Freighter;Транспортник
+ FT Fuel tanks; ТБ Топливные Баки
+ Fuel;Топливо
+ Fuel Strip;Трек Запаса Топлива
+ Futures;Контракты
+ Glitch;Сбой
+ Glitch Roll;Проверка на Сбой
+ Glitch Triggers;Действия провоцирующие Сбой
+ GW;ГВт
+ Hand;Рука
+ Hazard;Опасная Зона
+ Hazard Roll;Проверка Угрозы
+ Heliocentric Zone;Гелиоцентрическая Зона
+ Hohmann;Точка Гомана
+ Home Orbits;Домашние Орбиты
+ Home Bernal;Домашний Бернал
+ Human;Люди
+ Hydration;Гидратация
+ Ideology;Идеология
+ Isotope Fuel;Изотопное Топливо
+ ISRU;ИМР (Использование Местных Ресурсов)
+ Jettison;Аварийный сброс
+ Lab;Лаборатория
+ Lagrange Point;Точка Лагранжа
+ Launch Fees;Лицензия на Запуски
+ Laws;Законы
+ LEO;НОО (Низкая Околоземная Орбита)
+ Load Limit;Грузоподъемность
+ Marketeer;Маркетолог
+ Mass;Масса
+ Mishap Insurance;Компенсация за Аварии
+ Mobile Factory;Передвижные Фабрики
+ Module;Модуль
+ Mooncable;Кабель до Луны
+ Murder/Suicide;Убийство/Суицыд
+ MW;МВт
+ On-Board Nuclear Support;Поддержка Бортовых Ядерных Реакторов
+ On-Site Operation;Операции на Участке
+ Open Source FINAO;Открытый Программный Код
+ Operation;Операция
+ Operational;Активное состояние (Активная)
+ Orientation;Настройка Радиаторов
+ Outpost Stack;Стопка Карт Аванпоста
+ Phileas Fogg Refuel;Заправка Филеаса Фогга
+ Pivot;Поворот
+ Pool;Общий Запас
+ Powersat;Энергоретранслятор
+ Profession;Профессия
+ Promote;Апгрейд
+ Purple-Side Card;Карты с Фиолетовой Стороной
+ Purge Roll;Бросок на Уничтожение
+ Push Colony;Колония-бустер
+ Radiation Belt;Радиационный Пояс
+ Reserves;Резерв
+ Robot;Робот
+ Rocket;Рокета
+ Sails;Паруса
+ Scale;Масштаб
+ Scrum Troubleshooters;Ремотряд
+ Secretary-General;Генеральный Секретарь
+ Seniority Disks;Диски Циклов
+ Skunkworks;Теневые Лаборатории
+ Site;Объект
+ Size;Гравитация
+ Sol;Солнце
+ Solar-Powered Card;Карта Солнечного Модуля
+ Space;Пространство
+ Spacecraft;Космический Аппарат
+ Space Elevator;Космический Лифт
+ Spectral Type;Класс Месторождений
+ Stack;Стопка
+ Submarine;Гидрополис
+ Sunspot Cube;Кубик Гелиоцикла
+ Sunspot Cycle;Гелиоцикл
+ Synodic Comet Site;Ретроградный Кометный Объект
+ Taxes;Налоги
+ Therm;Крио-единица
+ Token VP;Маркер ПО
+ Turn;Ход
+ War of Independence;Война за Независимость
+ Wet Mass;Снаряжённая Масса
+ Wet Mass Chit;Жетон Снаряжённой Массы
+ Wet Mass Fuel;Масса Снаряжаемого Топлива
+ White-Side Card;Карта с Белой Стороной
 
 
 
