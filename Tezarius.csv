@@ -7,7 +7,7 @@ Claim;Участок недр
 Sites;Объекты
 Factory;Фабрика
 VP;ПО
-Supports;Вспомогательные карты (для Обвесов космических аппаратов)
+Supports;Вспомогательные функции (для Обвесов космических аппаратов)
 Support provided;Вспомогательные Функции
 Space Diamonds;Бриллианты Космоса
 Category indication;Категория Карт
@@ -20,11 +20,14 @@ Raygun Platform;Платформа для Бластеров
 
 Fluff text;Описательный текст
 Fluff image;Художественная Иллюстрация
-Pushable;Свойство Ускорителя
+Pushable;Может быть ускорен импульсом
 Rad-Hard;Рад. Стойкость
 Solar-Power;Солнечная Энергия
 Rocket base thrust;Базовая тяга ракеты
 Fuel consunption;Потребление топлива
+
+Playmat;Личный планшет игрока
+Rocket Stack;Стопка Модулей Ракеты
 
 
 Glossarium
